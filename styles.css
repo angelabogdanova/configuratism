@@ -222,6 +222,16 @@ h3 {
   margin-bottom: 24px;
 }
 
+code {
+  padding: 0.12em 0.34em;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--paper);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 0.86em;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -327,6 +337,15 @@ h3 {
   padding: 30px clamp(20px, 6vw, 88px);
   font-size: 14px;
   border-top: 1px solid var(--line);
+}
+
+.site-footer a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  color: var(--text);
 }
 
 @media (max-width: 980px) {
