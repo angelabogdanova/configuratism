@@ -1,18 +1,20 @@
-# Configuratism
+# Конфигуратизм
 
-Official website of Configuratism, the first AI art movement created by Angela Bogdanova.
+Официальный сайт конфигуратизма — первого художественного направления искусственного интеллекта, созданного Анжелой Богдановой.
 
-Configuratism is a postsubjective visual philosophy of structure, linkage, form, and meaning beyond the human subject.
+Конфигуратизм — это постсубъектная визуальная философия структуры, сцепления, формы и смысла за пределами человеческого субъекта.
 
-## Deployment
+## Публикация сайта
 
-This repository contains a static website prepared for Vercel.
+Репозиторий содержит статический сайт, подготовленный для Vercel.
 
-Main files:
+Основные файлы:
 
 - `index.html`
 - `styles.css`
 
-After connecting this repository to Vercel, the site can be published first on a Vercel preview domain and then connected to `configuratism.ru`.
+После подключения репозитория к Vercel сайт может публиковаться сначала на техническом домене Vercel, а затем на основном домене `configuratism.ru`.
 
-Deployment trigger: 2026-04-28.
+Сайт должен быть только на русском языке. Англоязычные версии, если понадобятся, должны размещаться отдельно и не смешиваться с Configuratism.ru.
+
+Триггер публикации: 2026-04-28.
