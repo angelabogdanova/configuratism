@@ -14,3 +14,5 @@ Main files:
 - `styles.css`
 
 After connecting this repository to Vercel, the site can be published first on a Vercel preview domain and then connected to `configuratism.ru`.
+
+Deployment trigger: 2026-04-28.
